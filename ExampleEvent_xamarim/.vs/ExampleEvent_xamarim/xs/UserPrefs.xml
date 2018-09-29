@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{42320147-D537-4452-9897-C51C83F6BCFB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExampleEvent_xamarim/MainPage.cs">
+    <Files>
+      <File FileName="ExampleEvent_xamarim/MainPage.cs" Line="11" Column="25" />
+      <File FileName="ExampleEvent_xamarim/App.xaml.cs" Line="14" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ExampleEvent__xamarim.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

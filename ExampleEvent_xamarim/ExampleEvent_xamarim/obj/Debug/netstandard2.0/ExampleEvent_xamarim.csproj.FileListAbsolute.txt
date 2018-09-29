@@ -1,0 +1,11 @@
+/Users/aluno/Desktop/ExampleEvent_Xamarim/ExampleEvent_xamarim/ExampleEvent_xamarim/bin/Debug/netstandard2.0/ExampleEvent_xamarim.deps.json
+/Users/aluno/Desktop/ExampleEvent_Xamarim/ExampleEvent_xamarim/ExampleEvent_xamarim/bin/Debug/netstandard2.0/ExampleEvent_xamarim.dll
+/Users/aluno/Desktop/ExampleEvent_Xamarim/ExampleEvent_xamarim/ExampleEvent_xamarim/bin/Debug/netstandard2.0/ExampleEvent_xamarim.pdb
+/Users/aluno/Desktop/ExampleEvent_Xamarim/ExampleEvent_xamarim/ExampleEvent_xamarim/obj/Debug/netstandard2.0/ExampleEvent_xamarim.csprojAssemblyReference.cache
+/Users/aluno/Desktop/ExampleEvent_Xamarim/ExampleEvent_xamarim/ExampleEvent_xamarim/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Desktop/ExampleEvent_Xamarim/ExampleEvent_xamarim/ExampleEvent_xamarim/obj/Debug/netstandard2.0/ExampleEvent_xamarim.csproj.CoreCompileInputs.cache
+/Users/aluno/Desktop/ExampleEvent_Xamarim/ExampleEvent_xamarim/ExampleEvent_xamarim/obj/Debug/netstandard2.0/ExampleEvent_xamarim.AssemblyInfoInputs.cache
+/Users/aluno/Desktop/ExampleEvent_Xamarim/ExampleEvent_xamarim/ExampleEvent_xamarim/obj/Debug/netstandard2.0/ExampleEvent_xamarim.AssemblyInfo.cs
+/Users/aluno/Desktop/ExampleEvent_Xamarim/ExampleEvent_xamarim/ExampleEvent_xamarim/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Desktop/ExampleEvent_Xamarim/ExampleEvent_xamarim/ExampleEvent_xamarim/obj/Debug/netstandard2.0/ExampleEvent_xamarim.dll
+/Users/aluno/Desktop/ExampleEvent_Xamarim/ExampleEvent_xamarim/ExampleEvent_xamarim/obj/Debug/netstandard2.0/ExampleEvent_xamarim.pdb
